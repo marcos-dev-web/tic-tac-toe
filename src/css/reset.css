@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Ubuntu, sans-serif;
+  outline: none;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #3c40c6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
