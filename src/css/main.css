@@ -38,7 +38,7 @@ section.container__tic {
   width: calc(100% / 3);
   height: calc(100% / 3);
   cursor: pointer;
-  transition: all .1s linear;
+  transition: all 0.1s linear;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -57,12 +57,6 @@ section.container__tic {
   background-color: #ef5777f9;
   cursor: not-allowed;
 }
-
-
-
-
-
-
 
 @media screen and (max-height: 400px) {
   body {
